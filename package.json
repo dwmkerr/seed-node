@@ -27,7 +27,7 @@
     "url": "https://github.com/dwmkerr/seed-node.git"
   },
   "dependencies": {
-    "chalk": "^3.0.0",
+    "chalk": "^4.0.0",
     "commander": "^2.14.1"
   },
   "devDependencies": {
