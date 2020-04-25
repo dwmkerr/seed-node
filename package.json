@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "chalk": "^3.0.0",
-    "commander": "^2.14.1"
+    "commander": "^5.1.0"
   },
   "devDependencies": {
     "eslint": "^6.0.0",
